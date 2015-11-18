@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<config>
+	<app>
+		<key>9B36FCBFB6B36265EA06A07154B3445B</key>
+		<name>armadillo</name>
+		<company>sincco</company>
+	</app>
+	<front>
+		<url>http://armadillo.apsicat.com/</url>
+	</front>
+	<bases>
+		<default>
+			<host>localhost</host>
+			<user>armadillo</user>
+			<password>oyHs4FF7lJxxS3YYx33dCDYYB/G66JPMiTCrcVYrykE=</password>
+			<dbname>armadillo</dbname>
+			<type>mysql</type>
+		</default>
+	</bases>
+	<dev>
+		<log>1</log>
+		<showerrors>0</showerrors>
+		<showphperrors>0</showphperrors>
+	</dev>
+	<sesion>
+		<type>DEFAULT</type>
+		<name>armadillo</name>
+		<ssl>0</ssl>
+		<inactivity>60</inactivity>
+	</sesion>
+</config>
