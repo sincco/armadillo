@@ -86,7 +86,7 @@ header.navbar-inverse.navbar-fixed-bottom {border-top:1px solid #006699}
 .content-header,.content-top {margin:-10px -5px 10px}
 .content-top {background-color:#fff;border-bottom:1px solid #dbe1e8}
 .content-header-media {position:relative;height:248px;overflow:hidden;border-top-color:#222}
-.content-header-media .header-section {z-index:200;position:absolute;top:0;left:0;right:0;color:#fff;background:url(../img/template/ie8_opacity_dark_60.png) repeat;background:rgba(0,0,0,.6)}
+.content-header-media .header-section {z-index:200;position:absolute;top:0;left:0;right:0;color:#fff;background:url(../img/template/ie8_opacity_dark_60.png) repeat;background:rgba(85,85,85,.6)}
 .content-header-media i,.content-header-media small {color:#ddd}
 .content-header-media>img {position:absolute;top:0;left:50%;width:2560px;height:248px;margin-left:-1280px}
 .content-header-media>.content-header-media-map {height:270px}
